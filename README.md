@@ -4,7 +4,7 @@
 
 I learn and develop software just for fun.
 
-Skills: C++ / Java / JavaScript / HTML / CSS
+Skills: C++ / Java / Spring Boot / Oracle SQL & PLSQL / JavaScript / React.js / Next.js / HTML / CSS
 
 - 🔭 I’m currently working on the Financial Application Development. 
 - 🌱 I’m currently learning JavaScript, Angular, and Blockchain 
