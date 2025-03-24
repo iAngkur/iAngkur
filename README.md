@@ -1,8 +1,7 @@
 ### Hi there 👋, Angkur Mondal
 #### Software Engineer
-![Software Engineer](https://media.licdn.com/dms/image/C5616AQFVwih730LHow/profile-displaybackgroundimage-shrink_350_1400/0/1659842653668?e=1721260800&v=beta&t=2REKDduAEQeBIVTTL36tdIOSsLz6_WEJxTrb8J8vZaA)
 
-I learn and develop software just for fun.
+I learn and develop software ~for fun~ $${\color{green}to \space earn \space a \space living}$$.
 
 Skills: C++ / Java / Spring Boot / Oracle SQL & PLSQL / JavaScript / React.js / Next.js / HTML / CSS
 
