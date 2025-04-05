@@ -104,6 +104,13 @@
 
 > 💡 *Want more?* Explore all my repositories 👉 [github.com/iAngkur?tab=repositories](https://github.com/iAngkur?tab=repositories)
 
+---
+
+### 📚 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/iAngkur?theme=dark&font=Abel&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
