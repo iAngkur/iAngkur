@@ -50,6 +50,63 @@
 
 ---
 
+### 🚀 Featured Projects by Technology
+
+#### 🧩 Java & Spring Boot
+
+- 🔐 [**Banking Application API**](https://github.com/iAngkur/banking-app-backend)  
+  RESTful API for core banking functionalities using Spring Boot, JWT, and Oracle SQL.
+
+- 📦 [**Inventory Management System**](https://github.com/iAngkur/inventory-system-java)  
+  Full-stack app using Spring Boot backend and React frontend.
+
+---
+
+#### ⚛️ React & JavaScript
+
+- 📅 [**Task Manager**](https://github.com/iAngkur/task-manager-react)  
+  A to-do/task management web app using React.js, with state management and local storage.
+
+- 🌐 [**Portfolio Website**](https://github.com/iAngkur/portfolio-site)  
+  Personal portfolio built with HTML, CSS, JS, and React — deployed on GitHub Pages.
+
+---
+
+#### 💾 Oracle SQL / PL-SQL
+
+- 🧾 [**SQL Reporting Engine**](https://github.com/iAngkur/sql-reporting-tool)  
+  A custom reporting tool using Oracle SQL + PL-SQL for financial data aggregation.
+
+- 🔄 [**Data Migration Script**](https://github.com/iAngkur/plsql-data-migration)  
+  Complex PL-SQL scripts for data transfer between legacy and modern systems.
+
+---
+
+#### 🌐 Web & UI (HTML/CSS/Next.js)
+
+- 📰 [**Tech Blog Template**](https://github.com/iAngkur/tech-blog-nextjs)  
+  A developer blog with Next.js and Markdown support — SEO optimized.
+
+- 🎨 [**Responsive UI Components**](https://github.com/iAngkur/html-css-ui-kit)  
+  Custom reusable components like cards, navbars, and modals using only HTML/CSS.
+
+---
+
+### 🛠️ Projects in Progress
+
+- 🪙 **Blockchain-based Identity Verification App**  
+  *(Private Repo)* – Angular + Solidity smart contract for decentralized KYC.
+
+- 📈 **Finance Dashboard with Charts**  
+  *(Coming Soon)* – Interactive analytics dashboard using React + Chart.js.
+
+---
+
+> 💡 *Want more?* Explore all my repositories 👉 [github.com/iAngkur?tab=repositories](https://github.com/iAngkur?tab=repositories)
+
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
